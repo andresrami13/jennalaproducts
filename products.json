@@ -48,9 +48,9 @@
     "descripcion": "Deliciosas trufas de chocolate blanco y ganache de maracuyá (6 unidades)."
   },
   {
-    "nombre": "Mousse de Chocolate Oscuro",
-    "precio": "$12.500",
-    "imagen": "Pictures/Mousse_Oscuro.jpg",
+    "nombre": "Chocomasmelos",
+    "precio": "$8.000",
+    "imagen": "Pictures/ChocoMasmelos.jpg",
     "descripcion": "Postre cremoso de mousse de chocolate negro, sin azúcar añadida."
   },
   {
@@ -91,3 +91,4 @@
   }
 
 ]
+
