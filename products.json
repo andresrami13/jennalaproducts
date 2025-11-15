@@ -42,9 +42,9 @@
     "descripcion": "Caja de regalo con selección de productos premium."
   },
   {
-    "nombre": "Trufas de Maracuyá",
-    "precio": "$19.000",
-    "imagen": "Pictures/Trufas_Maracuya.jpg",
+    "nombre": "Caja Bombas Personalizado",
+    "precio": "$80.000",
+    "imagen": "Pictures/Caja Bombas Personalizado.jpg",
     "descripcion": "Deliciosas trufas de chocolate blanco y ganache de maracuyá (6 unidades)."
   },
   {
@@ -54,39 +54,40 @@
     "descripcion": "Postre cremoso de mousse de chocolate negro, sin azúcar añadida."
   },
   {
-    "nombre": "Kit de Fondue",
+    "nombre": "Caja bombones Amor",
     "precio": "$45.000",
-    "imagen": "Pictures/Kit_Fondue.jpg",
+    "imagen": "Pictures/Caja bombones Amor.jpg",
     "descripcion": "Chocolate para fondue con fresas, masmelos y galletas (para 2 personas)."
   },
   {
-    "nombre": "Galletas Chispas Doble Choco",
-    "precio": "$8.000",
-    "imagen": "Pictures/Galletas_DobleChoco.jpg",
+    "nombre": "Caja Bombones Graduacion",
+    "precio": "$45.000",
+    "imagen": "Pictures/Caja Bombones Graduacion.jpg",
     "descripcion": "Galletas grandes y suaves de masa de chocolate con chispas de chocolate blanco."
   },
   {
-    "nombre": "Barra de Caramelo Salado",
-    "precio": "$15.000",
-    "imagen": "Pictures/Barra_CarameloSalado.jpg",
+    "nombre": "Chocolatina Tradicional",
+    "precio": "$6.000",
+    "imagen": "Pictures/Chocolatina Tradicional.jpg",
     "descripcion": "Barra de chocolate con leche rellena de suave caramelo y toque de sal marina."
   },
   {
-    "nombre": "Torta Húmeda Personal",
+    "nombre": "Chocobocados Dorados",
     "precio": "$22.000",
-    "imagen": "Pictures/Torta_Humeda.jpg",
+    "imagen": "Pictures/Chocobocados Dorados.jpg",
     "descripcion": "Porción individual de la clásica torta de chocolate con triple capa húmeda."
   },
   {
-    "nombre": "Chocobomba Vainilla",
+    "nombre": "ChocoBocados Personalizados",
     "precio": "$9.500",
-    "imagen": "Pictures/Bomba_Vainilla.jpg",
+    "imagen": "Pictures/ChocoBocados Personalizados.jpg",
     "descripcion": "Chocobomba especial de chocolate blanco y esencia de vainilla."
   },
   {
-    "nombre": "Set Degustación Premium",
+    "nombre": "ChocoSorpresa Personalizado",
     "precio": "$95.000",
-    "imagen": "Pictures/Set_Degustacion.jpg",
+    "imagen": "Pictures/ChocoSorpresa Personalizado.jpg",
     "descripcion": "Caja con 5 mini barras de origen único (cacao 50% a 90%)."
   }
+
 ]
