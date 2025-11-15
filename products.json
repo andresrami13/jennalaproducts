@@ -1,94 +1,92 @@
 [
-{
+  {
     "nombre": "Chocobomba",
-    "precio": "$9.000",
+    "precio": 9000,
     "imagen": "Pictures/Bomba_1.jpg",
     "descripcion": "ChocoBomba Individual para bebida caliente."
   },
   {
     "nombre": "Caja Chocobombas",
-    "precio": "$34.000",
+    "precio": 34000,
     "imagen": "Pictures/Caja Bombas 1.jpg",
     "descripcion": "Caja de 4 ChocoBombas surtidas."
   },
   {
     "nombre": "Chocobombones",
-    "precio": "$14.000",
+    "precio": 14000,
     "imagen": "Pictures/Chocobombones 1.jpg",
     "descripcion": "Bombones de chocolate rellenos variados (6 unidades)."
   },
   {
     "nombre": "Chococake Pops",
-    "precio": "$4.000",
+    "precio": 4000,
     "imagen": "Pictures/Chococake_pops_1.jpg",
     "descripcion": "Mini torta cubierta de chocolate en paleta."
   },
   {
     "nombre": "Chocolatina Artesanal",
-    "precio": "$17.000",
+    "precio": 17000,
     "imagen": "Pictures/Chocolatina_Artesanal_1.jpg",
     "descripcion": "Tableta de chocolate negro 70% cacao con frutos secos."
   },
   {
     "nombre": "Chocobocados",
-    "precio": "$5.000",
+    "precio": 5000,
     "imagen": "Pictures/Chocobocados_1.jpg",
     "descripcion": "Pequeños trozos de chocolate con diferentes toppings."
   },
   {
     "nombre": "Chocosorpresa",
-    "precio": "$70.000",
+    "precio": 70000,
     "imagen": "Pictures/Chocosorpresa_1.jpg",
     "descripcion": "Caja de regalo con selección de productos premium."
   },
   {
     "nombre": "Caja Bombas Personalizado",
-    "precio": "$80.000",
+    "precio": 80000,
     "imagen": "Pictures/Caja Bombas Personalizado.jpg",
     "descripcion": "Deliciosas trufas de chocolate blanco y ganache de maracuyá (6 unidades)."
   },
   {
     "nombre": "Chocomasmelos",
-    "precio": "$8.000",
+    "precio": 8000,
     "imagen": "Pictures/ChocoMasmelos.jpg",
     "descripcion": "Postre cremoso de mousse de chocolate negro, sin azúcar añadida."
   },
   {
     "nombre": "Caja bombones Amor",
-    "precio": "$45.000",
+    "precio": 45000,
     "imagen": "Pictures/Caja bombones Amor.jpg",
     "descripcion": "Chocolate para fondue con fresas, masmelos y galletas (para 2 personas)."
   },
   {
     "nombre": "Caja Bombones Graduacion",
-    "precio": "$45.000",
+    "precio": 45000,
     "imagen": "Pictures/Caja Bombones Graduacion.jpg",
     "descripcion": "Galletas grandes y suaves de masa de chocolate con chispas de chocolate blanco."
   },
   {
     "nombre": "Chocolatina Tradicional",
-    "precio": "$6.000",
+    "precio": 6000,
     "imagen": "Pictures/Chocolatina Tradicional.jpg",
     "descripcion": "Barra de chocolate con leche rellena de suave caramelo y toque de sal marina."
   },
   {
     "nombre": "Chocobocados Dorados",
-    "precio": "$22.000",
+    "precio": 22000,
     "imagen": "Pictures/Chocobocados Dorados.jpg",
     "descripcion": "Porción individual de la clásica torta de chocolate con triple capa húmeda."
   },
   {
     "nombre": "ChocoBocados Personalizados",
-    "precio": "$9.500",
+    "precio": 9500,
     "imagen": "Pictures/ChocoBocados Personalizados.jpg",
     "descripcion": "Chocobomba especial de chocolate blanco y esencia de vainilla."
   },
   {
     "nombre": "ChocoSorpresa Personalizado",
-    "precio": "$95.000",
+    "precio": 95000,
     "imagen": "Pictures/ChocoSorpresa Personalizado.jpg",
     "descripcion": "Caja con 5 mini barras de origen único (cacao 50% a 90%)."
   }
-
 ]
-
